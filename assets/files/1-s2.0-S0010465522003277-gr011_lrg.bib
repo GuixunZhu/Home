@@ -1,0 +1,13 @@
+@article{ZHU2023108608,
+title = {A novel MPI-based parallel smoothed particle hydrodynamics framework with dynamic load balancing for free surface flow},
+journal = {Computer Physics Communications},
+volume = {284},
+pages = {108608},
+year = {2023},
+issn = {0010-4655},
+doi = {https://doi.org/10.1016/j.cpc.2022.108608},
+url = {https://www.sciencedirect.com/science/article/pii/S0010465522003277},
+author = {Guixun Zhu and Jason Hughes and Siming Zheng and Deborah Greaves},
+keywords = {Smoothed particle hydrodynamics, Parallel computing, Load balance, Free surface flow},
+abstract = {This paper presents a new Smoothed Particle Hydrodynamics (SPH) parallel framework, which is designed for free surface flows and is scalable on a High Performance Computer (HPC). The framework is accomplished by adopting a Message Passing Interface (MPI) approach with a domain partitioning strategy. A regular background grid is used to partition the entire computational domain and each subdomain is labelled using an index ordering method. Adjacent subdomains can be determined by the index list, and avoid global communications in the particle distribution process. Within the local grid, the grid is divided into an internal grid as well as an interactive grid to identify the particles for which information is to be transferred. The implementation of the dynamic loading balance strategy considers two different ways of determining loading: computation particle numbers and running time. The dynamic load balance strategy repositions neighbouring subdomains based on the local load imbalance between cores. To demonstrate the framework's capacity and distinctive properties, a variety of free surface flow benchmarks are studied. Intensive numerical experiments at various scales are used to assess the performance in detail.}
+}
