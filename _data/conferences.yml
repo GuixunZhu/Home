@@ -13,6 +13,7 @@ main:
     conference_short: IWWWFB
     conference: The 35th International Workshop on Water Waves and Floating Bodies
     pdf: ./assets/files/IWWWFB35-48.png
-    image: ./assets/img/Image_20231120143828.jpg
+    image: ./assets/files/Image_20231120143828.jpg
+    notes: Accepted
 
 
