@@ -1,21 +1,19 @@
 main:
 
-  - title: Reversible and Non-volatile Magneto-ionic effect in W-CoFeB-MgO-HfO2 ultra-thin films with Perpendicular Anisotropy
-    authors: Song Chen, Elmer Monteblanco, Rohit Pachat, Liza Herrera Diez, Dafiné Ravelosona
-    conference_short: JEMS
-    conference: 13th Joint European Magnetic Symposia
-    pdf: ./assets/files/JEMS2023_Song.pdf
-    web: https://www.jems2023.es/
-    image: ./assets/files/JEMS2023_2.jpg
+  - title: A SPH Model with Open Relaxation Boundary for Wave Generation and Absorption
+    authors: <strong>Guixun Zhu<\strong>, Jason Hughes, Siming Zheng, Deborah Greaves
+    conference_short: ISOPE
+    conference: 21st International Ocean and Polar Engineering Conference
+    pdf: ./assets/files/A_SPH_Model_with_Open_Relaxation_Boundary_for_Wave_Generation_and_Absorption.pdf
+    image: ./assets/files/Image_20231120143432.png
     notes: Accepted
 
-  - title: BeMAGIC CONFERENCE IN TORINO – POST EVENT
-    conference_short: BeMAGIC
-    conference: BeMAGIC CONFERENCE IN TORINO
-    abstract: The BeMAGIC conference in Torino, entitled “Beyond Magnetoelectric Materials”, was successfully organized by the network ESRs (Early Stage Researchers). This event took place on 12-15 June 2023 at the Starhotel Majestic, Torino, Italy. The programme included 15 top-class experts in the magnetoelectric field, who delivered lectures on the following topics&#58; multiferroics, surface charging, magnetoionics and applications in healthcare, energy efficiency and cybersecurity.
-    pdf: https://bemagic-etn.eu/images/files2023/BeMAGIC_Conference_Torino_2023.pdf
-    web: https://bemagic-etn.eu/news/79-bemagic-conference-in-torino-2023-post-event
-    image: ./assets/img/Group_picture.jpg
+  - title: Wave scattering from multiple circular floating porous elastic plates
+    authors: Siming Zheng, Mike Meylan, <strong>Guixun Zhu<\strong>, Deborah Greaves, Gregorio Iglesias 
+    conference_short: IWWWFB
+    conference: The 35th International Workshop on Water Waves and Floating Bodies
+    pdf: ./assets/files/IWWWFB35-48.png
+    image: ./assets/img/Image_20231120143828.jpg
 
   - title: BeMAGIC Winter School - ETH Zürich
     conference_short: BeMAGIC
@@ -24,28 +22,4 @@ main:
     #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
     web: https://bemagic-etn.eu/news/68-bemagic-winter-school-post-event
     image: ./assets/img/eth.jpg
-
-  - title: JOINT WORKSHOP BEMAGIC / MAGNEFI AT AALTO UNIVERSITY
-    conference_short: BeMAGIC
-    conference:  BeMAGIC Winter School&#58; Magnetoelectricity in biomedicine healthcare for the 21st century ETH Zürich
-    abstract: The BeMAGIC workshop at AALTO University (Helsinki, Finland), co-organized with the MagnEFi network, took place from 13 to 17 June 2022.  
-    #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
-    web: https://bemagic-etn.eu/news/73-joint-workshop-bemagic-magnefi-at-aalto-university-post-event
-    image: ./assets/img/joint.jpg
-
-  - title: BeMAGIC Summer School&#58; Setting gateway to academia (UCAM)
-    conference_short: BeMAGIC
-    conference:  BeMAGIC Winter School&#58; Magnetoelectricity in biomedicine healthcare for the 21st century ETH Zürich
-    abstract: The next BeMAGIC workshop, organized by the University of Cambridge, will take place online on 7-9 April 2021 (workshop) and 10-11 May 2021 (training in soft skills).   
-    #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
-    web: https://bemagic-etn.eu/news/62-bemagic-summer-school-post-event
-    image: ./assets/img/Portada-cc58d654.jpg
-
-  - title: BeMAGIC WORKSHOP AT GTECM
-    conference_short: BeMAGIC
-    conference:  BEMAGIC Workshop - Gateway to industry&#58;innovation, entrepreneurship and marketable products using ME technology
-    abstract: The BeMAGIC Workshop at GTECM was successfuly organized in Innsbruck, Austria, from 13 to 16 December 2022.
-    pdf: https://bemagic-etn.eu/images/files2022/BeMagic_Workshop_GTECM_agenda.pdf
-    web: https://bemagic-etn.eu/news/77-bemagic-workshop-at-gtecm-post-event
-    image: ./assets/img/lF0ulCNA.jpeg
 
