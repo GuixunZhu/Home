@@ -14,7 +14,7 @@ address_link: https://maps.app.goo.gl/FELBj84rNPfXAiUKA
 # Search Engine Optimization (SEO)
 keywords: guixun, guixunzhu, guixun zhu
 canonical: https://minimal-light-theme.yliu.me/
-description: Song Chen is a Ph.D. canditate at Spin-Ion Technologies and Université Paris-Saclay. His research lies at using magneto-ionics to develop new concepts for magnetic data storage, spintronic devices and magnonics, always with the aim of improving energy efficiency with respect to currently available technologies - with a special focus on the boosting magneto-ionic effect using ion irradiation & ion implantation.
+description: Dr. Zhu Guixun is currently a Postdoctoral Research Fellow in the Department of Mechanical Engineering at the National University of Singapore. He holds a Bachelor’s degree and a Master’s degree from Dalian University of Technology, China, obtained in 2015 and 2018, respectively. In 2023, he successfully earned his Ph.D. from the University of Plymouth, United Kingdom.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -23,12 +23,9 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-google_scholar: https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de
-cv_link: 
-github_link: https://github.com/song-chen1/
-linkedin: https://www.linkedin.com/in/song-chen-3449b9278/
-twitter: 
-researchgate: https://www.researchgate.net/profile/Song-Chen-60
+google_scholar: https://scholar.google.com/citations?user=CQUnhpAAAAAJ&hl=en&oi=sra
+github_link: https://github.com/GuixunZhu/
+researchgate: https://www.researchgate.net/profile/Guixun-Zhu/
 
 # Images 
 avatar: ./assets/img/avatar.jpg
