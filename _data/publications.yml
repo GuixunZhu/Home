@@ -57,17 +57,17 @@ main:
     pdf: ./assets/files/fld4813.pdf
     page: https://onlinelibrary.wiley.com/doi/abs/10.1002/fld.4813
     bibtex: ./assets/files/pericles1097036392.bib
-    image: ./assets/files/Image20231120101813.jpg
+    image: ./assets/files/Image20231120101813.png
     notes: Published 
 
-  - title: An integrated smoothed particle hydrodynamics model for complex interfacial flows with large density ratios
-    authors: <strong>Guixun Zhu</strong>, Li Zou
+  - title: An improved SPH model for multiphase flows with large density ratios
+    authors: <strong>Guixun Zhu</strong>, Li Zou, Zhen Chen, Aiming Wang, Moubin Liu
     conference_short: Int J Numer Methods Fluids
     conference: International Journal for Numerical Methods in Fluids
     pdf: ./assets/files/fld4412.pdf
     page: https://onlinelibrary.wiley.com/doi/abs/10.1002/fld.4813
     bibtex: ./assets/files/pericles1097036386.bib
-    image: ./assets/files/Image20231120102628.jpg
+    image: ./assets/files/Image20231120102628.png
     notes: Published 
 
   
