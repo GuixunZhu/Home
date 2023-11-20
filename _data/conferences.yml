@@ -1,7 +1,7 @@
 main:
 
   - title: A SPH Model with Open Relaxation Boundary for Wave Generation and Absorption
-    authors: <strong>Guixun Zhu<\strong>, Jason Hughes, Siming Zheng, Deborah Greaves
+    authors: <strong>Guixun Zhu</strong>, Jason Hughes, Siming Zheng, Deborah Greaves
     conference_short: ISOPE
     conference: 21st International Ocean and Polar Engineering Conference
     pdf: ./assets/files/A_SPH_Model_with_Open_Relaxation_Boundary_for_Wave_Generation_and_Absorption.pdf
@@ -9,7 +9,7 @@ main:
     notes: Accepted
 
   - title: Wave scattering from multiple circular floating porous elastic plates
-    authors: Siming Zheng, Mike Meylan, <strong>Guixun Zhu<\strong>, Deborah Greaves, Gregorio Iglesias 
+    authors: Siming Zheng, Mike Meylan, <strong>Guixun Zhu</strong>, Deborah Greaves, Gregorio Iglesias 
     conference_short: IWWWFB
     conference: The 35th International Workshop on Water Waves and Floating Bodies
     pdf: ./assets/files/IWWWFB35-48.png
