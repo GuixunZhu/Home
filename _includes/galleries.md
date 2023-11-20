@@ -7,10 +7,13 @@
 <li><strong>[NOV. 2023]</strong> Build a personal website.</li>
 
 
+
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none">
-<li><strong>[JUN. 2021]</strong> Join the <a href="https://www.spin-ion.com/">Spin-Ion Technologies</a>, involved in the <a href="https://bemagic-etn.eu/">BeMAGIC</a> program (Marie Sklodowska-Curie European Training Network).</li>
+<li>  - title: Vorticity field (a), resolution distribution (b) and local vorticity field (c) of Re = 1000 case.
+    image: ./assets/files/fig_15.png.</li>
 </div>
 </ul>
+
 
 
