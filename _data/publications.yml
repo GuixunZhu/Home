@@ -80,14 +80,14 @@ main:
     image: ./assets/files/Image_20231120134313.png
     notes: Published 
 
-  - title: An improved SPH model for multiphase flows with large density ratios
-    authors: <strong>Guixun Zhu</strong>, Li Zou, Zhen Chen, Aiming Wang, Moubin Liu
-    conference_short: Int J Numer Methods Fluids
-    conference: International Journal for Numerical Methods in Fluids
-    pdf: ./assets/files/fld4412.pdf
-    page: https://onlinelibrary.wiley.com/doi/abs/10.1002/fld.4813
-    bibtex: ./assets/files/pericles1097036386.bib
-    image: ./assets/files/Image20231120102628.png
+  - title: Hydrodynamic performance of a multi-oscillating water column (OWC) platform
+    authors: Siming Zheng, Alessandro Antonini, Yongliang Zhang, Jon Miles, Deborah Greaves, <strong>Guixun Zhu</strong>, Gregorio Iglesias
+    conference_short: Applied ocean research
+    conference: Applied ocean research
+    pdf: ./assets/files/2020_APOR_ELEMENT.pdf
+    page: https://www.sciencedirect.com/science/article/pii/S014111871931123X
+    bibtex: ./assets/files/S014111871931123X.bib
+    image: ./assets/files/Image_20231120135450.png
     notes: Published 
 
   
