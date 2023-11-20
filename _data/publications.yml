@@ -90,6 +90,17 @@ main:
     image: ./assets/files/Image_20231120135450.png
     notes: Published 
 
+  - title: Wave power extraction from a tubular structure integrated oscillating water column
+    authors: Siming Zheng, Alessandro Antonini, Yongliang Zhang, Jon Miles, Deborah Greaves, <strong>Guixun Zhu</strong>, Gregorio Iglesias
+    conference_short: Renewable Energy
+    conference: Renewable Energy
+    pdf: ./assets/files/Wave power extraction from a tubular structure integrated OWC_proof.pdf
+    page: https://www.sciencedirect.com/science/article/pii/S0960148120300094
+    bibtex: ./assets/files/S0960148120300094.bib
+    image: ./assets/files/Image_20231120135944.png
+    notes: Published 
+
+
   
 
   
