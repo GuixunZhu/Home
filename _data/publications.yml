@@ -70,6 +70,26 @@ main:
     image: ./assets/files/Image20231120102628.png
     notes: Published 
 
+  - title: Hydroelastic interaction between water waves and an array of circular floating porous elastic plates
+    authors: Siming Zheng, Michael H Meylan, <strong>Guixun Zhu</strong>, Deborah Greaves, Gregorio Iglesias
+    conference_short: J. Fluid Mechanics
+    conference: Journal of Fluid Mechanics
+    pdf: ./assets/files/repository_file.pdf
+    page: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/hydroelastic-interaction-between-water-waves-and-an-array-of-circular-floating-porous-elastic-plates/7B128F5AE0D8235FBE81B6E2553F62BE
+    bibtex: ./assets/files/CambridgeCore_CitationExport_20Nov2023.txt
+    image: ./assets/files/Image_20231120134313.png
+    notes: Published 
+
+  - title: An improved SPH model for multiphase flows with large density ratios
+    authors: <strong>Guixun Zhu</strong>, Li Zou, Zhen Chen, Aiming Wang, Moubin Liu
+    conference_short: Int J Numer Methods Fluids
+    conference: International Journal for Numerical Methods in Fluids
+    pdf: ./assets/files/fld4412.pdf
+    page: https://onlinelibrary.wiley.com/doi/abs/10.1002/fld.4813
+    bibtex: ./assets/files/pericles1097036386.bib
+    image: ./assets/files/Image20231120102628.png
+    notes: Published 
+
   
 
   
