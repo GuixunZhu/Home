@@ -1,7 +1,7 @@
 main:
 
   - title: "Galleries"
-    url: ./#Galleries
+    url: ./#galleries
   
   - title: "Conferences & Events"
     url: ./#conferences
