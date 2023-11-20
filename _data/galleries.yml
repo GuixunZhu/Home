@@ -1,1 +1,9 @@
+main:
+
+  - title: Vorticity field (a), resolution distribution (b) and local vorticity field (c) of Re = 1000 case.
+    image: ./assets/files/fig_15.png
+
+
+  - title:  Horizontal field (a) and local view (b) of three-dimensional breaking case.
+    image: ./assets/files/fig_52.png
 
