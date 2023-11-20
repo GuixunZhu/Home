@@ -40,7 +40,7 @@ main:
     image: ./assets/files/1-s2.0-S0029801823021996-gr1_lrg.jpg
     notes: Published
 
-  - title: Hydrodynamics of onshore oscillating water column devices: A numerical study using smoothed particle hydrodynamics
+  - title: Hydrodynamics of onshore oscillating water column devices A numerical study using smoothed particle hydrodynamics
     authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
     conference_short: Ocean Engineering
     conference: Ocean Engineering
