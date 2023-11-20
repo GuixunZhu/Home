@@ -4,7 +4,8 @@
 
 <ul>
 
-<li><strong>[NOV. 2023]</strong> Build a personal website.</li>
+<li>Title: Vorticity field (a), resolution distribution (b) and local vorticity field (c) of Re = 1000 case.
+    image: ./assets/files/fig_15.png.</li>
 
 
 
