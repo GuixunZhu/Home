@@ -30,12 +30,12 @@ main:
     image: ./assets/files/1-s2.0-S0045793023002694-gr14_lrg.jpg
     notes: Published
 
-  - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
-    authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
+  - title: Experimental study of interactions between focused waves and a point absorber wave energy converter
+    authors: <strong>Guixun Zhu</strong>, Zahra Shahroozi, Siming Zheng, Malin Göteman, Jens Engström, Deborah Greaves
+    conference_short: Ocean Engineering
+    conference: Ocean Engineering
     pdf: ./assets/files/SSRN-id4328224.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+    page: https://www.sciencedirect.com/science/article/pii/S0029801823021996
     bibtex: ./assets/files/flexible.txt
     image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
     notes: Published
