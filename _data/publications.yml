@@ -40,16 +40,6 @@ main:
     image: ./assets/files/1-s2.0-S0029801823021996-gr1_lrg.jpg
     notes: Published
 
-  - title: Hydrodynamics of onshore oscillating water column devices: A numerical study using smoothed particle hydrodynamics
-    authors: <strong>Guixun Zhu</strong>, David Graham, Siming Zheng, Jason Hughes, Deborah Greaves
-    conference_short: Ocean Engineering
-    conference: Ocean Engineering
-    pdf: ./assets/files/1-s2.0-S0029801820311495-main.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
-    bibtex: ./assets/files/S0029801820311495.bib
-    image: ./assets/files/1-s2.0-S0029801820311495-gr13_lrg.jpg
-    notes: Published
-
   - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
     authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
     conference_short: Sens. Actuators B Chem.
