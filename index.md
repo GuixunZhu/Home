@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-Dr. Zhu Guixun is currently a Postdoctoral Research Fellow in the Department of Mechanical Engineering at the National University of Singapore. He holds a Bachelor's degree and a Master's degree from Dalian University of Technology, China, obtained in 2015 and 2018, respectively. In 2023, he successfully earned his Ph.D. from the University of Plymouth, United Kingdom.
+Dr. Zhu Guixun is currently a Postdoctoral Research Fellow in the Department of Mechanical Engineering at the National University of Singapore. He holds a Bachelor's degree and a Master's degree from Dalian University of Technology, China, obtained in 2015 and 2018, respectively. In 2023, he successfully earned his Ph.D degree from the University of Plymouth, United Kingdom.
 
 Dr. Zhu  has dedicated his academic journey to addressing challenges in engineering through the utilization of numerical approaches. His  research interests focus on ocean engineering, contributing to the advancement of engineering science and providing innovative solutions to real-world problems. Through in-depth investigations, Dr. Zhu strives to advance our understanding of natural phenomena, contributing to progress and sustainability in the field of engineering.
 
