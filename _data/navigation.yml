@@ -1,16 +1,13 @@
 main:
 
+  - title: "Galleries"
+    url: ./#Galleries
+  
   - title: "Conferences & Events"
     url: ./#conferences
 
   - title: "Publications"
     url: ./#publications
-
-  - title: "Projects"
-    url: ./#projects
-
-  - title: "Galleries"
-    url: ./#Galleries
 
   - title: "Bio"
     url: ./#about-me
