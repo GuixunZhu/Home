@@ -8,7 +8,7 @@ main:
     pdf: ./assets/files/JCP_2024.pdf
     page: https://www.sciencedirect.com/science/article/abs/pii/S0021999124002882?via%3Dihub
     bibtex: ./assets/files/S0021999124002882.bib
-    image: ./assets/files/Graphical Abstract.jpg
+    image: ./assets/files/GraphicalJCP.jpg
     notes: Published
   
   - title: Numerical investigation on the hydrodynamic performance of a 2D U-shaped Oscillating Water Column wave energy converter
