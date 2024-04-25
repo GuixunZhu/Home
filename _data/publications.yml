@@ -1,5 +1,16 @@
 main:
 
+  
+  - title: A parallel multi-resolution Smoothed Particle Hydrodynamics model with local time stepping
+    authors: <strong>Guixun Zhu</strong>, Yongdong Cui, Boo Cheong Khoo, Siming Zheng, Zongbing Yu, Yelin Gao
+    conference_short: Journal of Computational Physics
+    conference: Journal of Computational Physics
+    pdf: ./assets/files/JCP_2024_Parallel_multi-resolution_SPH_with_local_time_stepping.pdf
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0021999124002882?via%3Dihub
+    bibtex: ./assets/files/S0021999124002882.bib
+    image: ./assets/files/Graphical Abstract.jpg
+    notes: Published
+  
   - title: Numerical investigation on the hydrodynamic performance of a 2D U-shaped Oscillating Water Column wave energy converter
     authors: <strong>Guixun Zhu</strong>, John Samuel, Siming Zheng, Jason Hughes, David Simmonds, Deborah Greaves
     conference_short: Energy
